@@ -1,0 +1,9 @@
+C:\Users\ollie\source\repos\Race_v2\Race_v2\bin\Debug\Race_v2.exe.config
+C:\Users\ollie\source\repos\Race_v2\Race_v2\bin\Debug\Race_v2.exe
+C:\Users\ollie\source\repos\Race_v2\Race_v2\bin\Debug\Race_v2.pdb
+C:\Users\ollie\source\repos\Race_v2\Race_v2\obj\Debug\Race_v2.Form1.resources
+C:\Users\ollie\source\repos\Race_v2\Race_v2\obj\Debug\Race_v2.Properties.Resources.resources
+C:\Users\ollie\source\repos\Race_v2\Race_v2\obj\Debug\Race_v2.csproj.GenerateResource.cache
+C:\Users\ollie\source\repos\Race_v2\Race_v2\obj\Debug\Race_v2.csproj.CoreCompileInputs.cache
+C:\Users\ollie\source\repos\Race_v2\Race_v2\obj\Debug\Race_v2.exe
+C:\Users\ollie\source\repos\Race_v2\Race_v2\obj\Debug\Race_v2.pdb
